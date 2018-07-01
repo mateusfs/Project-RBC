@@ -1,6 +1,6 @@
-# Projeto RBC
+# Project RBC
 
-Projeto RBC (Raciocínio Baseado em Casos)
+Project RBC (Case-Based Reasoning)
 
 ## Getting Started
 
